@@ -19,7 +19,7 @@
 
 // Output:
 
-// The output should the original array containing all of the Pokemon objects given, but with each Pokémon's baseStat boosted by 50 points.
+// The output should be the original array containing all of the Pokemon objects given, but with each Pokémon's baseStat boosted by 50 points.
 // The array should then be sorted from new highest base stat to new lowest base stat.
 
 export function myOrganizedDeck(Pokedex) {
